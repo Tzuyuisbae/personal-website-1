@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -24,14 +24,14 @@ projects:
   limit: 9
   exclude:
     forks: true
-    projects:
+    projects: "CSCA48-Week-1-Tutorial"
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
-  # linkedin: your_username
+  facebook: WaterlooReject
+  linkedin: your_username
   # medium: @your_username
   # stackoverflow: your_user_id
   # telegram: your_username
@@ -40,12 +40,11 @@ projects:
   # vk: your_username
 
 topics:
+  - name: React
+    web_url: https://github.com/facebook/react
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
   - name: CSS
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
